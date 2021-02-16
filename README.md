@@ -1,3 +1,3 @@
 # AbstractFactory
 
-This is an exemple of using the abstract factory package in java 
+This is an example of using the abstract factory design pattern in javva
